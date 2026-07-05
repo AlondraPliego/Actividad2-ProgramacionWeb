@@ -95,7 +95,7 @@ https://youtu.be/yD86qDrWnes
 - Formulario + modal: https://alondrapliego.github.io/Actividad2-ProgramacionWeb/
 - Login: https://alondrapliego.github.io/Actividad2-ProgramacionWeb/login.html
 ### GitHub Repositorio
--https://github.com/AlondraPliego/Actividad2-ProgramacionWeb
+- https://github.com/AlondraPliego/Actividad2-ProgramacionWeb
 ## Estructura del repositorio
 ```
 /Actividad2-PogramacionWeb
