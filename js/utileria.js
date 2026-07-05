@@ -1,6 +1,6 @@
 /** Valida formato de correo electrónico */
 function validarCorreo(correo) {
-    const patronC = /^[a-z0-9_-]+@[a-z0-9_-]+\.[a-z]{2,}$/i;;
+    const patronC = /^[a-z0-9_-]+@[a-z0-9_-]+\.[a-z]{2,}$/i;
     return patronC.test(correo);
 }
 
