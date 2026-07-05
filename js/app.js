@@ -166,7 +166,7 @@ function convertir() {
     }
     document.getElementById("rC").classList.remove("oculto")
     let onzas = gramosAOnzas(gramosNum);
-    resultado.textContent = gramosNum + " g = " + onzas + " oz";
+    resultado.textContent = onzas + " oz";
 }
 
 function cerrarSesion(){
