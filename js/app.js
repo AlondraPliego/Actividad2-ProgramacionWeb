@@ -168,3 +168,7 @@ function convertir() {
     let onzas = gramosAOnzas(gramosNum);
     resultado.textContent = gramosNum + " g = " + onzas + " oz";
 }
+
+function cerrarSesion(){
+    window.location.href = "login.html";
+}
