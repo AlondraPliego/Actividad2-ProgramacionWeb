@@ -1,7 +1,6 @@
 # Actividad 2-Programacion Web
 **Alumna**: Pliego Mendez Alondra
 
-**Problema**
 Librería JS funcional (sin frameworks, sin componentes visuales) destinada a ser utilizada para la validación de información que generalmente es solicitada dentro de distintos formularios. Además, incluye dos funciones extra enfocadas en resolver problemas comunes de un chef: estandarizar recetas en base a las porciones que se requieran, y convertir unidades de gramos a onzas.
 ## Instalación
 Para la utilización de esta libreria descarga el archivo utileria.js de la carpeta /js de este repositorio e inclúyelo en tu HTML antes de tu propio script:
