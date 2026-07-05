@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="card">
+        <h1>Iniciar sesión</h1>
+        <form id="formLogin">
+            <div class="campo">
+                <label for="correoLogin">Correo electronico:</label>
+                <input type="text" id="correoLogin" name="correoLogin" placeholder="correo@something.com" required>
+            </div>
+            <p class="error" id="errorCorreoLogin"></p>
+            <div class="campo">
+                <label for="passwordLogin">Contraseña:</label>
+                <input type="password" id="passwordLogin" name="contraseña" required>
+            </div>
+            <p class="error" id="errorPasswordLogin"></p>
+            <button type="button" onclick=" validarLogin()">Login</button>
+            <p class="exito" id="exitoLogin"></p>
+        </form>
+    </div>
+    <script src="js/utileria.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
