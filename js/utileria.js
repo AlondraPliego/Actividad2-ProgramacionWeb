@@ -1,13 +1,13 @@
 /** Valida formato de correo electrónico */
 function validarCorreo(correo) {
-    const patron = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return patron.test(correo);
+    const patronC = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return patronC.test(correo);
 }
 
 /** Solo letras mayúsculas/minúsculas, acepta vocales acentuadas */
 function soloLetras(texto) {
-    const patron = /^[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+$/;
-    return patron.test(texto);
+    const patronL = /^[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+$/;
+    return patronL.test(texto);
 }
 
 /** Valida longitud de un número */
