@@ -126,7 +126,7 @@ function calcularEscala() {
     const mensajeError = document.getElementById("errorEscala");
     resultado.innerHTML = "";
     mensajeError.textContent = "";
-    if (ingredientes.length === 0) {
+    if (ingredientes.length == 0) {
         mensajeError.textContent = "Necesitas agregar al menos un ingrediente antes de calcular.";
         return;
     }
