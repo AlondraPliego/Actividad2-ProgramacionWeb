@@ -89,11 +89,13 @@ function gramosAOnzas(gramos) {
 ```
 ![Convertidor](img/convertidorP.png)
 ## Video de prueba de funcionamiento
+https://youtu.be/yD86qDrWnes
 ## Links
 ### GitHub Pages
-- Formulario + modal: 
-- Login: 
-### GitHub Repositorio: https://github.com/AlondraPliego/Actividad2-ProgramacionWeb
+- Formulario + modal: https://alondrapliego.github.io/Actividad2-ProgramacionWeb/
+- Login: https://alondrapliego.github.io/Actividad2-ProgramacionWeb/login.html
+### GitHub Repositorio
+-https://github.com/AlondraPliego/Actividad2-ProgramacionWeb
 ## Estructura del repositorio
 ```
 /Actividad2-PogramacionWeb
